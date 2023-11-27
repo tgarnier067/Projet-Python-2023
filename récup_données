@@ -1,0 +1,7 @@
+url_1 = "https://odre.opendatasoft.com/explore/embed/dataset/conso-departement-annuelle/table/?disjunctive.libelle_departement&disjunctive.libelle_region&disjunctive.e_operateurs&disjunctive.g_operateurs&refine.annee=2021&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjb25zb3RvdGFsZSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM2NmMyYTUifV0sInhBeGlzIjoibGliZWxsZV9kZXBhcnRlbWVudCIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImNvbnNvLWRlcGFydGVtZW50LWFubnVlbGxlIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5saWJlbGxlX2RlcGFydGVtZW50Ijp0cnVlLCJkaXNqdW5jdGl2ZS5saWJlbGxlX3JlZ2lvbiI6dHJ1ZSwiZGlzanVuY3RpdmUuZV9vcGVyYXRldXJzIjp0cnVlLCJkaXNqdW5jdGl2ZS5nX29wZXJhdGV1cnMiOnRydWUsInJlZmluZS5hbm5lZSI6IjIwMjEifX19XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D&location=3,17.56025,53.4375&basemap=jawg.light"
+url_2 = "https://www.insee.fr/fr/statistiques/6436484?sommaire=6036904#tableau-figure1_radio1"
+url_3 = "https://odre.opendatasoft.com/explore/dataset/temperature-quotidienne-departementale/download?format=csv&timezone=Europe/Berlin&use_labels_for_header=false"
+url_4 = "https://www.insee.fr/fr/statistiques/6436484?sommaire=6036904#tableau-figure1_radio1"
+url_5 = "https://www.observatoire-des-territoires.gouv.fr/part-des-logements-vacants"
+url_6 = "https://ufe-electricite.fr/watt-the-carte/deploiement-bornes-de-recharge-en-france/dans-les-territoires/"
+url_7 = "https://www.carburants.org/borne-electrique/departements/"
