@@ -2,9 +2,9 @@
 
 ### Introduction
 
-#### Bienvenue sur le projet porté par trois étudiants en deuxième année à l'ENSAE : Thomas Garnier, Anna Mosaki, et Thomas Sanchez. Nous nous sommes lancés avec enthousiasme dans le cours de Python dédié à la data science, animé par M. Lino Galiana. Notre objectif : explorer la consommation d'électricité au niveau des communes en nous basant sur des données spécifiques que nous avons recueillies.
+#### Bienvenue sur le projet porté par trois étudiants en deuxième année à l'ENSAE : Thomas Garnier, Anna Mosaki, et Thomas Sanchez. Nous nous sommes lancés avec enthousiasme dans le cours de Python dédié à la data science, animé par M. Lino Galiana. Notre objectif : explorer la consommation d'électricité au niveau des communes en nous basant sur des données que nous avons recueillies.
 
-##### La transition écologique est au cœur de nos préoccupations. Elle représente un défi majeur pour la société contemporaine. Comprendre comment chaque commune gère sa consommation d'énergie devient crucial pour anticiper et atténuer les impacts des événements climatiques futurs. Nous sommes convaincus qu'anticiper la consommation d'énergie est une étape primordiale dans cette démarche. Comme on dit, "à toi de donner des justifications"...
+##### La transition écologique est au cœur de nos préoccupations. Elle représente un défi majeur pour la société contemporaine. Comprendre comment chaque commune gère sa consommation d'énergie devient primordial pour anticiper et atténuer les impacts des événements climatiques futurs. Ainsi, notre objectif est de concevoir un modèle de prédiction de la consommation d'énergie au niveau communal. Nous examinerons les points forts et les points faibles de ce modèle, et proposerons des axes d'amélioration afin de le rapprocher au maximum de la réalité.
 
 ### Aperçu de notre démarche :
 
